@@ -294,6 +294,228 @@ var app  = new Framework7({
           joindate: '০৭-০১-২০১৯',
           distdate: '০৭-০১-২০১৯',
         },
+        {
+          'id': "26",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Kamal%20Ahmed%20Mojumder.jpg",
+          "name": "জনাব কামাল আহমেদ মজুমদার",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "শিল্প মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "27",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%A8%20%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A6%A6%20%2C%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF.jpg",
+          "name": "জনাব ইমরান আহমদ",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "28",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Md.%20Zahid%20Ahsan%20Russel.jpg",
+          "name": "জনাব মোঃ জাহিদ আহসান রাসেল",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "যুব ও ক্রীড়া মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "29",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Nasrul%20Hamid.jpg",
+          "name": "জনাব নসরুল হামিদ",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",          
+          "division": [
+            { div : "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "30",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Md.%20Ashraf%20Ali%20Khan%20Khasru%2C%20MP.jpg",
+          "name": "জনাব মোঃ আশরাফ আলী খান খসরু",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "মৎস্য ও প্রাণিসম্পদ মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "31",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/monnujan_mp.png",
+          "name": "বেগম মন্নুজান সুফিয়ান",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "শ্রম ও কর্মসংস্থান মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "32",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/State%20Minister_Khalid%20Mahmud%20Chowdhury.png",
+          "name": "জনাব খালিদ মাহ্‌মুদ চৌধুরী",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "নৌ-পরিবহন মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "33",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%AE%E0%A7%8B%E0%A6%83%20%E0%A6%9C%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B0%20%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8.jpg",
+          "name": "জনাব মোঃ জাকির হোসেন",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "প্রাথমিক ও গণশিক্ষা মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "34",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Mr.%20Md.%20Shahriar%20Alam%2C%20MP.jpg",
+          "name": "জনাব মোঃ শাহ্‌রিয়ার আলম",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "পররাষ্ট্র মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "35",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%9C%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%A6%20%E0%A6%86%E0%A6%B9%E0%A7%8D%E2%80%8C%E0%A6%AE%E0%A7%87%E0%A6%A6%20%E0%A6%AA%E0%A6%B2%E0%A6%95%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%80%E0%A7%9F%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80.jpg",
+          "name": "জনাব জুনা‌ইদ আহ্‌মেদ পলক",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "তথ্য ও যোগাযোগ প্রযুক্তি বিভাগ" },
+            { div : "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়" },
+          ],
+          "distdate": "১৯-০৫-২০১৯"
+        },
+        {
+          "id": "36",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8.png",
+          "name": "জনাব ফরহাদ হোসেন",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "জনপ্রশাসন মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "37",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A6%A8%20%E0%A6%AD%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%8D%E0%A6%AF%2C%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF.jpg",
+          "name": "জনাব স্বপন ভট্টাচার্য",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "পল্লী উন্নয়ন ও সমবায় বিভাগ" },
+            { div : "স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রণালয়" },
+          ],
+          "distdate": "১৯-০৫-২০১৯"
+        },
+        {
+          "id": "38",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%95%2C%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF.PNG",
+          "name": "জনাব জাহিদ ফারুক",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "পানি সম্পদ মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "39",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%A1%E0%A6%BE%E0%A6%83%20%E0%A6%AE%E0%A7%8B%E0%A6%83%20%E0%A6%AE%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A6%20%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8%2C%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF.jpg",
+          "name": "জনাব মোঃ মুরাদ হাসান",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "তথ্য মন্ত্রণালয়" },
+          ],
+          "distdate": "১৯-০৫-২০১৯"
+        },
+        {
+          "id": "40",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%86%E0%A6%B9%E0%A7%8D%E2%80%8C%E0%A6%AE%E0%A7%87%E0%A6%A6%20%281%29.jpg",
+          "name": "জনাব শরীফ আহমেদ",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "সমাজকল্যাণ মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "41",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%95%E0%A7%87%20%E0%A6%8F%E0%A6%AE%20%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A6%2C%20%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF.jpg",
+          "name": "জনাব কে এম খালিদ",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "সংস্কৃতি বিষয়ক মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "42",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/Dr.%20Md.%20Enamur%20Rahman%20MP%2C%20State%20Minister.jpg",
+          "name": "ডাঃ মোঃ এনামুর রহমান",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১২০১৯",
+          "division": [
+            { div : "দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "43",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%AE%E0%A7%8B%E0%A6%83%20%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AC%E0%A7%81%E0%A6%AC%20%E0%A6%86%E0%A6%B2%E0%A7%80.jpg",
+          "name": "জনাব মোঃ মাহবুব আলী",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "বেসামরিক বিমান পরিবহন ও পর্যটন মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          "id": "44",
+          "url": "https://cabinet.portal.gov.bd/uploader/server/../../sites/default/files/files/cabinet.portal.gov.bd/page/30838484_7e00_4417_aa7e_4bf3a62224ed/%E0%A6%8F%E0%A6%A1%E0%A6%AD%E0%A7%8B%E0%A6%95%E0%A7%87%E0%A6%9F%20%E0%A6%B6%E0%A7%87%E0%A6%96%20%E0%A6%AE%E0%A7%8B%E0%A6%83%20%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9.jpg",
+          "name": "আলহাজ্ব এডভোকেট শেখ মোঃ আব্দুল্লাহ",
+          "title": "প্রতিমন্ত্রী",
+          "joindate": "০৭-০১-২০১৯",
+          "division": [
+            { div : "ধর্ম বিষয়ক মন্ত্রণালয়" },
+          ],
+          "distdate": "০৭-০১-২০১৯"
+        },
+        {
+          id: '45',
+          name: '___',
+          url: '___',
+          title: 'প্রতিমন্ত্রী',
+          division: [
+            { div : "___" },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
       ]
     };
   },
@@ -313,4 +535,31 @@ var searchView = app.views.create('#search-user', {
 });
 var settingsView = app.views.create('#view-settings', {
   url: '/settings/'
+});
+
+
+jQuery(function($){
+  $(document).ready(function(){
+
+  var array = [];
+var headers = [];
+$('table th').each(function(index, item) {
+    headers[index] = $(item).text();
+});
+$('table tr').has('td').each(function() {
+    var arrayItem = {};
+    $('td', $(this)).each(function(index, item) {
+        if( index == 1 ){
+          arrayItem[headers[index]] = $(item).find('input').attr('src');
+        }else{
+          arrayItem[headers[index]] = $(item).text();
+        }
+    });
+    array.push(arrayItem);
+
+});
+
+console.log(JSON.stringify(array));
+
+  });
 });
