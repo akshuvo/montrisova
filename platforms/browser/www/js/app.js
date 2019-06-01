@@ -184,6 +184,116 @@ var app  = new Framework7({
           joindate: '০৭-০১-২০১৯',
           distdate: '০৭-০১-২০১৯',
         },
+        {
+          id: '16',
+          name: 'জনাব সাধন চন্দ্র মজুমদার ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Sadhan%20Chandra%20Mojumder%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "খাদ্য মন্ত্রণালয় " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '17',
+          name: 'জনাব টিপু মুনশি  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Tipu%20Munshi%2C%20MP%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "বাণিজ্য মন্ত্রণালয় " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '18',
+          name: 'জনাব নুরুজ্জামান আহ‌মেদ  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/%E0%A6%A8%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%20%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A7%87%E0%A6%A6.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "সমাজকল্যাণ মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '19',
+          name: 'জনাব শ. ম. রেজাউল করিম ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/S%20M%20Rejaul%20Karim%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "গৃহায়ন ও গণপূর্ত মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '20',
+          name: 'জনাব মোঃ শাহাব উদ্দিন  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Md.%20Shahab%20Uddin.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '21',
+          name: 'জনাব বীর বাহাদুর উশৈসিং  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Bir%20Bahadur%20Ushwe%20Sing%2C%20MP%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '22',
+          name: 'জনাব সাইফুজ্জামান চৌধুরী ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Saifuzzaman%20Chowdhury%20%20%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "ভূমি মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '23',
+          name: 'জনাব মো: নূরুল ইসলাম সুজন  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Mr.%20Md.%20Nurul%20Islam%20Sujan%2C%20MP%20Honorable%20Minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "রেলপথ মন্ত্রণালয় " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '24',
+          name: 'স্থপতি ইয়াফেস ওসমান  ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Architect%20Yeafesh%20Osman%2C%20Minister%20minister.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয় " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '25',
+          name: 'জনাব মোস্তাফা জব্বার ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/60b1fce3_e203_4126_8f18_d69554fc46cb/Mustafa%20Jabbar%20Minster.jpg',
+          title: 'মন্ত্রী',
+          division: [
+            { div : "ডাক ও টেলিযোগাযোগ বিভাগডাক মন্ত্রণালয়" },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
       ]
     };
   },
