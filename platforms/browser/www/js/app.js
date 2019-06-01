@@ -507,11 +507,33 @@ var app  = new Framework7({
         },
         {
           id: '45',
-          name: '___',
-          url: '___',
-          title: 'প্রতিমন্ত্রী',
+          name: 'বেগম হাবিবুন নাহার',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/1d2f07c8_ee3b_4fd3_adb8_560ebf200f6c/Habibun%20NaharDeputy%20MinisterMinistry%20of%20Environment%2C%20Forest%20and%20Climate%20Cha..jpg',
+          title: 'উপ-মন্ত্রী',
           division: [
-            { div : "___" },
+            { div : "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রণালয়" },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '46',
+          name: 'জনাব এ কে এম এনামুল হক শামীম ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/1d2f07c8_ee3b_4fd3_adb8_560ebf200f6c/AKM%20Enamul%20Haque%20Shameem.PNG',
+          title: 'উপ-মন্ত্রী',
+          division: [
+            { div : "পানি সম্পদ মন্ত্রণালয়  " },
+          ],
+          joindate: '০৭-০১-২০১৯',
+          distdate: '০৭-০১-২০১৯',
+        },
+        {
+          id: '47',
+          name: 'জনাব মহিবুল হাসান চৌধুরী ',
+          url: 'https://cabinet.portal.gov.bd/sites/default/files/files/cabinet.portal.gov.bd/page/1d2f07c8_ee3b_4fd3_adb8_560ebf200f6c/Mohibul%20Hassan%20Chowdhoury.jpg',
+          title: 'উপ-মন্ত্রী',
+          division: [
+            { div : "শিক্ষা মন্ত্রণালয়  " },
           ],
           joindate: '০৭-০১-২০১৯',
           distdate: '০৭-০১-২০১৯',
