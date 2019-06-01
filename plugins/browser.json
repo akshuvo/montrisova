@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.appvanilla.minister_list_2019"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.appvanilla.minister_list_2019"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.appvanilla.minister_list_2019"
+        }
+    },
+    "dependent_plugins": {}
+}
