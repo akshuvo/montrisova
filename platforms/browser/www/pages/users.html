@@ -10,14 +10,16 @@
         <ul>
           {{#each users}}
             <li class="item-content">              
-                <a href="/user/{{id}}/" class="item-media"><img width="60" data-src="{{url}}" class="lazy"></a>
+                <a href="/user/{{id}}/" class="item-media"><img width="60" src="{{url}}" class="lazy"></a>
                 <a href="/user/{{id}}/" class="item-inner">
                     <div class="item-title-row">
                         <div class="item-title">{{name}}</div>
                     </div>
                     <div class="item-subtitle">
                       {{#each division}}
-                      <span>{{div}}</span>
+                        <div class="chip chip-outline">
+                          <div class="chip-label">{{div}}</div>
+                        </div>
                       {{/each}}
                     </div>
                 </a>              
