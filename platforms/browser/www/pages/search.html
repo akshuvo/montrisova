@@ -7,7 +7,7 @@
           <form data-search-container=".search-list" data-search-in=".item-title, .chip-label" class="searchbar searchbar-init">
             <div class="searchbar-inner">
               <div class="searchbar-input-wrap">
-                <input type="search" placeholder="Search"/>
+                <input type="search" placeholder="সার্চ করুন"/>
                 <i class="searchbar-icon"></i>
                 <span class="input-clear-button"></span>
               </div>
@@ -27,7 +27,7 @@
         <ul>
           {{#each users}}
             <li class="item-content">              
-                <a href="/user/{{id}}/" class="item-media"><img width="60" data-src="{{url}}" class="lazy"></a>
+                <a href="/user/{{id}}/" class="item-media"><img width="60" src="{{url}}" class="lazy"></a>
                 <a href="/user/{{id}}/" class="item-inner">
                     <div class="item-title-row">
                         <div class="item-title">{{name}}</div>
