@@ -555,33 +555,7 @@ var catalogView = app.views.create('#view-users', {
 var searchView = app.views.create('#search-user', {
   url: '/search/'
 });
+
 var settingsView = app.views.create('#view-settings', {
   url: '/settings/'
-});
-
-
-jQuery(function($){
-  $(document).ready(function(){
-
-  var array = [];
-var headers = [];
-$('table th').each(function(index, item) {
-    headers[index] = $(item).text();
-});
-$('table tr').has('td').each(function() {
-    var arrayItem = {};
-    $('td', $(this)).each(function(index, item) {
-        if( index == 1 ){
-          arrayItem[headers[index]] = $(item).find('input').attr('src');
-        }else{
-          arrayItem[headers[index]] = $(item).text();
-        }
-    });
-    array.push(arrayItem);
-
-});
-
-console.log(JSON.stringify(array));
-
-  });
 });
