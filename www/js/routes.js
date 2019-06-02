@@ -17,8 +17,8 @@ routes = [
     componentUrl: './pages/user-details.html',
   },
   {
-    path: '/settings/',
-    url: './pages/settings.html',
+    path: '/about/',
+    url: './pages/about.html',
   },
   {
     path: '(.*)',
